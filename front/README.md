@@ -1,0 +1,1 @@
+# surveySalary-front-end
